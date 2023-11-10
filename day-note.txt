@@ -1,4 +1,6 @@
-Oke, ini adalah contoh dari penggunaan github dengan dokumen selain coding ya ceu
+ini curhatan gua dan alasan kenapa mau belajar github lagi
+fyi github ini adalah elephant rope gua sih, salah satunya.
+
 Gua tuh belajar ini biar bisa kerja sama dan ga jadi beban tim
 lagi pula enak banget kalo udah bisa pake github
 gua ga perlu lagi nanyain bintang satu-satu, gua bisa cek sendiri
